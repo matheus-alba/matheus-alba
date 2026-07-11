@@ -20,14 +20,12 @@ Feel free to check out my content!
   <img src="https://img.shields.io/badge/Power%20Query-5086ec?style=for-the-badge&logoColor=white" alt="Power Query" />  
   <img src="https://img.shields.io/badge/Excel-47a244?style=for-the-badge&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/pipefy-ffffff?style=for-the-badge" alt="Pipefy" />  
+  <img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge&logoColor=white" alt="DAX" />
+  <img src="https://img.shields.io/badge/ETL-000000?style=for-the-badge&logoColor=white" alt="ETL" />
   <img src="https://img.shields.io/badge/python%20(in%20progress)-3771a1?style=for-the-badge&logo=python&logoColor=FFFFFF&logoSize=auto" alt="Python" />
-
-
   
 <br/>
 
-<img src="https://img.shields.io/badge/DAX-9c9c9c?style=for-the-badge&logoColor=white" alt="DAX" />
-<img src="https://img.shields.io/badge/ETL-9c9c9c?style=for-the-badge&logoColor=white" alt="ETL" />
 <img src="https://img.shields.io/badge/Communication-9c9c9c?style=for-the-badge&logoColor=white" alt="Communication" />
 <img src="https://img.shields.io/badge/requirements%20gathering-9c9c9c?style=for-the-badge&logoColor=white" alt="Requirements Gathering" />
 <img src="https://img.shields.io/badge/analytical%20solutions-9c9c9c?style=for-the-badge&logoColor=white" alt="Analytical Solutions" />
