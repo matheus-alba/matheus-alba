@@ -31,6 +31,8 @@ Feel free to check out my content!
 <img src="https://img.shields.io/badge/Communication-9c9c9c?style=for-the-badge&logoColor=white" alt="Communication" />
 <img src="https://img.shields.io/badge/requirements%20gathering-9c9c9c?style=for-the-badge&logoColor=white" alt="Requirements Gathering" />
 <img src="https://img.shields.io/badge/analytical%20solutions-9c9c9c?style=for-the-badge&logoColor=white" alt="Analytical Solutions" />
+<img src="https://img.shields.io/badge/decision%20making-9c9c9c?style=for-the-badge&logoColor=white" alt="Decision Making" />
+<img src="https://img.shields.io/badge/performance-9c9c9c?style=for-the-badge&logoColor=white" alt="Performance" />
 
 
 
